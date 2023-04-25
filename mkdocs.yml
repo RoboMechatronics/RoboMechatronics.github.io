@@ -1,0 +1,14 @@
+site_name: Phan Nguyen Ngoc Hien
+
+nav:
+    - Overview: index.md
+
+    - Education: education.md
+
+    - Experiences: experiences.md
+
+    - Certificates: certificates.md
+
+    - Personal Information: personal_info.md
+    
+theme: readthedocs
