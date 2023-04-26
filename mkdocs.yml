@@ -10,5 +10,7 @@ nav:
     - Certificates: certificates.md
 
     - Personal Information: personal_info.md
-    
+
+use_directory_urls: false
+
 theme: readthedocs
