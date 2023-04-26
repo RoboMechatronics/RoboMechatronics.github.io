@@ -1,2 +1,2 @@
 # RoboMechatronics.github.io
-[site](site/)
+[My site](site/)
