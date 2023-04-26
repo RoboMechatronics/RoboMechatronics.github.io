@@ -1,14 +1,14 @@
-
-# PROBE CARD DESIGNER
+#
+## PROBE CARD DESIGNER
 Nidec SV Probe Vietnam Co. Ltd 12/2019 - Present 
 
-## Technical Assurance:
+#### Technical Assurance:
 - Receive customer requests. Communicate with customers/sales to properly understand their requirement before designing.
 - Verify, evaluating, and gathering sufficient technical information to prepare Probe card design.
 - Check PCB drawings versus preliminary 3D mechanical design.
 - Confirm the qualified information/documents/drawings to proceed with the design.
 
-## Mechanical Design and Checker:
+#### Mechanical Design and Checker:
 
 - Design Probe Card’s 3D model base on the company’s design rules.
 - Use Solidworks Drawing Tool/AutoCAD 2D to work on 2D drawing.
@@ -18,7 +18,7 @@ Nidec SV Probe Vietnam Co. Ltd 12/2019 - Present
 
 -------------------------
 
-# C/C++ DEVELOPER
+## C/C++ DEVELOPER
 FPT Software Ho Chi Minh 06/2018 - 8/2019
 
 - 6/2018 - 7/2018: Fresher Python, Machine Learning. 
@@ -27,7 +27,7 @@ FPT Software Ho Chi Minh 06/2018 - 8/2019
 
 -------------------------
 
-# PRODUCTION ENGINEER
+## PRODUCTION ENGINEER
 Nguyen Van Muc factory 08/2017 - 05/2018
 
 -	Measure parts and re-built 3D models for them - Programming CNC machining on SolidCAM.
@@ -35,7 +35,7 @@ Nguyen Van Muc factory 08/2017 - 05/2018
 
 -------------------------
 
-# PROJECTS AND INTERNSHIP
+## PROJECTS AND INTERNSHIP
 Industrial University of Ho Chi Minh City 06/2016 - 08/2016
 
 - Control pipeline pressure stabilization system. Used PID control to pressure stabilization.
