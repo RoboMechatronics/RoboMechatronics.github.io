@@ -5,8 +5,7 @@ Dassault Systems – 2022
 
 ------------------------
 
-### Solidworks Advanced Professional 
-(CSWPA - Drawing, Surface, Weldments, Sheet metal)
+### Solidworks Advanced Professional (CSWPA - Drawing, Surface, Weldments, Sheet metal)
 Dassault Systems – 2022
 
 ------------------------
