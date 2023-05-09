@@ -1,5 +1,4 @@
 site_name: Phan Nguyen Ngoc Hien
-site_url: ""
 
 nav:
     - Overview: index.md
@@ -15,6 +14,7 @@ nav:
 theme: 
     name: readthedocs
     custom_dir: 'readthedocs_color'
-
+    
+docs_dir: 'docs'
 
 use_directory_urls: false
