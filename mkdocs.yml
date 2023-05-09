@@ -11,4 +11,6 @@ nav:
 
     - Personal Information: personal_info.md
     
-theme: readthedocs
+theme: 
+    name: readthedocs
+    custom_dir: 'readthedocs_color'

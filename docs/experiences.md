@@ -1,6 +1,6 @@
 
 # PROBE CARD DESIGNER
-Nidec SV Probe Vietnam Co. Ltd 12/2019 - Present 
+<p class="style_01"> Nidec SV Probe Vietnam Co. Ltd 12/2019 - Present </p>
 
 ## Technical Assurance:
 - Receive customer requests. Communicate with customers/sales to properly understand their requirement before designing.
@@ -19,7 +19,7 @@ Nidec SV Probe Vietnam Co. Ltd 12/2019 - Present
 -------------------------
 
 # C/C++ DEVELOPER
-FPT Software Ho Chi Minh 06/2018 - 8/2019
+<p class="style_01"> FPT Software Ho Chi Minh 06/2018 - 8/2019 </p>
 
 - 6/2018 - 7/2018: Fresher Python, Machine Learning. 
 - 8/2018 - 12/2018: C/C++ developer.
@@ -28,7 +28,7 @@ FPT Software Ho Chi Minh 06/2018 - 8/2019
 -------------------------
 
 # PRODUCTION ENGINEER
-Nguyen Van Muc factory 08/2017 - 05/2018
+<p class="style_01"> Nguyen Van Muc factory 08/2017 - 05/2018 </p>
 
 -	Measure parts and re-built 3D models for them - Programming CNC machining on SolidCAM.
 -	Operate CNC machine Fanuc 0M.
@@ -36,7 +36,7 @@ Nguyen Van Muc factory 08/2017 - 05/2018
 -------------------------
 
 # PROJECTS AND INTERNSHIP
-Industrial University of Ho Chi Minh City 06/2016 - 08/2016
+<p class="style_01"> Industrial University of Ho Chi Minh City 06/2016 - 08/2016 </p>
 
 - Control pipeline pressure stabilization system. Used PID control to pressure stabilization.
 - Projects in University
