@@ -1,4 +1,5 @@
 site_name: Phan Nguyen Ngoc Hien
+site_url: ""
 
 nav:
     - Overview: index.md
