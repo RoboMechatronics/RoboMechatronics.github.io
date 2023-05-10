@@ -153,7 +153,7 @@ td, th {
  */
 
  .wy-side-nav-search{
-    background-image: linear-gradient(-45deg,  #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-image: linear-gradient(-45deg,  #ee7752, #e73c7e, #236ad5, #23d5ab);
     background-size: 400% 400%;
 	-webkit-animation: gradient 15s ease infinite;
 	        animation: gradient 15s ease infinite;
@@ -162,7 +162,7 @@ td, th {
 
  .wy-nav-side {
     padding-bottom: 40px;
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #0e3aff, #23d5ab);
 	background-size: 400% 400%;
 	-webkit-animation: gradient 15s ease infinite;
 	        animation: gradient 15s ease infinite;
@@ -170,6 +170,39 @@ td, th {
 
 .wy-nav-top {
     background: linear-gradient(-45deg, #0565f6, #04d9ff, #23a6d5, #23d5ab);
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+    color: #ffffff;
+}
+
+.wy-menu-vertical li.current {
+    background: linear-gradient(-45deg, #ffffff, #ffdcea, #b5c3ff, #b1ffed);
+}
+
+.wy-menu-vertical li.current>a, .wy-menu-vertical li.on a {
+    background: #00000000;
+}
+
+.wy-menu-vertical li.toctree-l2.current>a, .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a{
+    background: linear-gradient(-45deg, #ffffff, #f8b8d2, #98abff, #b1ffed);
+}
+
+.wy-nav-side a:hover {
+    color: #404040;
+    background: linear-gradient(-45deg, #ffffff, #ff71aa, #98abff, #b1ffed);
+}
+
+.wy-side-nav-search a:hover {
+    background: linear-gradient(-45deg, #ffffff, #f8b8d2, #98abff, #b1ffed);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+}
+
+.wy-menu-vertical li.toctree-l2>a:hover{
+    color: #404040;
+    background: linear-gradient(-50deg, #ffffff, #f8b8d2, #98abff, #b1ffed);
 }
 
 /*
