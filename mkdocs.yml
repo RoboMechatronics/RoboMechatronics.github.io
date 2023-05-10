@@ -9,7 +9,7 @@ nav:
 
     - Certificates: certificates.md
 
-    - Personal Information: personal_info.md
+    - About Me: personal_info.md
     
 theme: 
     name: readthedocs

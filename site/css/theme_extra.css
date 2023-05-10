@@ -197,7 +197,7 @@ td, th {
     background: linear-gradient(-45deg, #ffffff, #f8b8d2, #98abff, #b1ffed);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .wy-menu-vertical li.toctree-l2>a:hover{
@@ -245,19 +245,34 @@ td, th {
 }*/
 
 h1{
+    font-family: Arial;
     background: linear-gradient(to right, #2100f8, #974aee, #cf23cf, #16b1ff, #6417ea, #0852ff);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
 
 h2{
+    font-family: Arial;
     background: linear-gradient(to right, #225af5, #a068ea, #8e1cff, #b917ee, #86a9fb, #13f7ff);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
 
 h3{
+    font-family: Arial;
     background: linear-gradient(to right, #2100f8, #974aee, #cf23cf, #16b1ff, #6417ea, #0852ff);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+h4{
+    font-family: Arial;
+    color:#000;
+}
+
+h5{
+    font-family: Arial;
+    background: linear-gradient(to right, #2100f8c0, #964aeebd, #cf23cfad, #16b1ffac, #6417ea96, #0852ff90);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
@@ -266,4 +281,9 @@ h3{
     background: linear-gradient(to right, #2100f8, #974aee, #cf23cf, #16b1ff, #6417ea, #0852ff);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+}
+
+
+* {
+    font-family: Arial;
 }

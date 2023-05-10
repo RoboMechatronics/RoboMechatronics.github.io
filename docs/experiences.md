@@ -1,5 +1,6 @@
+#
 
-# PROBE CARD DESIGNER
+## Probe Card Designer
 <p class="style_01"> Nidec SV Probe Vietnam Co. Ltd 12/2019 - Present </p>
 
 #### Technical Assurance:
@@ -18,7 +19,7 @@
 
 -------------------------
 
-# C/C++ DEVELOPER
+## C/C++ Developer
 <p class="style_01"> FPT Software Ho Chi Minh 06/2018 - 8/2019 </p>
 
 - 6/2018 - 7/2018: Fresher Python, Machine Learning. 
@@ -27,15 +28,15 @@
 
 -------------------------
 
-# PRODUCTION ENGINEER
+## Production Engineer
 <p class="style_01"> Nguyen Van Muc factory 08/2017 - 05/2018 </p>
 
--	Measure parts and re-built 3D models for them - Programming CNC machining on SolidCAM.
--	Operate CNC machine Fanuc 0M.
+- Measure parts and re-built 3D models for them - Programming CNC machining on SolidCAM.
+- Operate CNC machine Fanuc 0M.
 
 -------------------------
 
-# PROJECTS AND INTERNSHIP
+## Projects and Internship
 <p class="style_01"> Industrial University of Ho Chi Minh City 06/2016 - 08/2016 </p>
 
 - Control pipeline pressure stabilization system. Used PID control to pressure stabilization.
