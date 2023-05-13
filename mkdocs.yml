@@ -14,5 +14,11 @@ nav:
 theme: 
     name: readthedocs
     custom_dir: 'readthedocs_color'
+    features:
+        - search.highlight
 
 use_directory_urls: false
+
+plugins:
+  - search:
+        lang: en
